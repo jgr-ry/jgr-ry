@@ -16,8 +16,6 @@
 
 ## 🚀 Sobre mí
 
-<img align="right" alt="JoseGR's Github Profiles" width="186" src="logo.png">
-
 <div align="start">
 
 Cada día pensando nuevos proyectos. Soy **JoseGR**, Full‑Stack Developer con interés en infraestructura y experiencia de usuario.
