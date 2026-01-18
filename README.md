@@ -46,14 +46,6 @@ Mis focos actuales:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jgr-ry&theme=darkhub&no-frame=true&margin-w=15" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
