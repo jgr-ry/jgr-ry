@@ -2,7 +2,7 @@
 
 # Hola, soy JoseGR 👋
 
-### Full‑Stack · DevOps · Open Source
+### Full‑Stack · Open Source
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=58a6ff&width=720&height=50&lines=Full-Stack+Developer;DevOps;Cada+día+pensando+nuevos+proyectos" />
