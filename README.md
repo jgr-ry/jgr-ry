@@ -56,31 +56,98 @@ github:   @jgr-ry
 
 ---
 
-## 🚀 Open Source
+## 🚀 Proyectos destacados
 
-Repos **públicos** con contenido real — sin enlaces rotos ni carpetas vacías.
+Repositorios **públicos** con código accesible — pincha en cualquiera para ver el repo.
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/jgr-ry/AutoDeploy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgr-ry&repo=AutoDeploy&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0" alt="AutoDeploy" />
-</a>
-<a href="https://github.com/jgr-ry/Bunny-Batch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgr-ry&repo=Bunny-Batch&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0" alt="Bunny-Batch" />
-</a>
+<h3 align="center">🔐 <a href="https://github.com/jgr-ry/AutoDeploy">AutoDeploy</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/DevOps-3b82f6?style=flat-square" alt="DevOps" />
+  <img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" alt="MIT" />
+</p>
+
+<p align="center">
+Despliegue seguro en servidores: más control, menos exposición de VPS y mejor operación.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jgr-ry/AutoDeploy"><b>Ver repo →</b></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🐰 <a href="https://github.com/jgr-ry/Bunny-Batch">Bunny-Batch</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Automation-8b5cf6?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" alt="MIT" />
+</p>
+
+<p align="center">
+Herramienta de procesamiento por lotes para automatizar tareas repetitivas con Python.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jgr-ry/Bunny-Batch"><b>Ver repo →</b></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 <a href="https://github.com/jgr-ry/JGR_Doors">JGR_Doors</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/FiveM-1e40af?style=flat-square" alt="FiveM" />
+  <img src="https://img.shields.io/badge/Qbox-3b82f6?style=flat-square" alt="Qbox" />
+</p>
+
+<p align="center">
+Entrada realista a vehículos según la puerta más cercana. Optimizado para Qbox y ox_lib.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jgr-ry/JGR_Doors"><b>Ver repo →</b></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔄 <a href="https://github.com/jgr-ry/JGR_Flipcar">JGR_Flipcar</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/ESX-QBCore-64748b?style=flat-square" alt="Frameworks" />
+  <img src="https://img.shields.io/badge/ox__target-0ea5e9?style=flat-square" alt="ox_target" />
+</p>
+
+<p align="center">
+Volcado de vehículos con animaciones sync, items requeridos e interacción vía ox_target.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jgr-ry/JGR_Flipcar"><b>Ver repo →</b></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/jgr-ry/JGR_Doors">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgr-ry&repo=JGR_Doors&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0" alt="JGR_Doors" />
-</a>
-<a href="https://github.com/jgr-ry/JGR_Flipcar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgr-ry&repo=JGR_Flipcar&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0" alt="JGR_Flipcar" />
-</a>
+<div align="center">
 
-<br/><br/>
-
-[![Repos públicos](https://img.shields.io/badge/Repos_p%C3%BAblicos-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgr-ry?tab=repositories)
+[![Ver todos los repos públicos](https://img.shields.io/badge/Ver_todos_los_repos-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jgr-ry?tab=repositories)
 
 </div>
 
@@ -122,7 +189,7 @@ Repos **públicos** con contenido real — sin enlaces rotos ni carpetas vacías
 
 ---
 
-## 📬 Conecta conmigo
+## 📬 Contacta conmigo
 
 <div align="center">
 
